@@ -1,0 +1,188 @@
+🧩 EAC Experiment 1
+Title: Write a short report on planning, securing, and governing the enterprise architecture.
+Aim:
+
+To understand how to plan, secure, and govern enterprise architecture in an organization to improve performance, security, and alignment with business goals.
+
+Theory Summary:
+
+Enterprise Architecture (EA) integrates business strategy with IT infrastructure.
+
+It ensures that IT supports business processes efficiently and securely.
+
+Key Components:
+
+Planning EA
+
+Define business goals and align architecture with them.
+
+Identify stakeholders and create a roadmap.
+
+Establish architecture principles and documentation.
+
+Securing EA
+
+Identify vulnerabilities and apply risk management.
+
+Use encryption, authentication, and access control.
+
+Maintain compliance with security standards.
+
+Governing EA
+
+Set governance policies and roles.
+
+Create review boards and maintain documentation.
+
+Monitor and enforce architectural standards.
+
+Conclusion:
+Planning, securing, and governing EA ensures alignment between IT and business, improves agility, and enhances security and compliance.
+
+🧭 EAC Experiment 2
+Title: Sketch enterprise architecture with emerging technologies such as Cloud / IoT / AI / Blockchain.
+Aim:
+
+To create a conceptual EA framework integrating modern technologies for improved scalability, security, and efficiency.
+
+Theory Summary:
+
+Modern EA uses emerging technologies for smart, data-driven decisions.
+
+Integration Components:
+
+Cloud Computing:
+
+Provides scalability, flexibility, and cost efficiency.
+
+Enables on-demand resources and remote access.
+
+IoT (Internet of Things):
+
+Connects devices for real-time data collection and automation.
+
+Improves efficiency and monitoring in smart systems.
+
+AI (Artificial Intelligence):
+
+Enables automation, predictive analytics, and intelligent decision-making.
+
+Blockchain:
+
+Provides transparent, tamper-proof transactions and secure record-keeping.
+
+Requirements:
+
+Scalability, Interoperability, Security, Data Management.
+
+Conclusion:
+Combining Cloud, IoT, AI, and Blockchain into EA enables innovation, secure data management, automation, and better decision-making across enterprises.
+
+🏦 EAC Experiment 3
+Title: Design and implement enterprise architecture using TOGAF for banking/healthcare domain.
+Aim:
+
+To design an EA framework using TOGAF (The Open Group Architecture Framework) for real-world domains like banking or healthcare.
+
+Theory Summary:
+
+TOGAF provides a step-by-step method (ADM cycle) for building enterprise architectures that align IT with business needs.
+
+TOGAF Phases:
+
+Preliminary Phase: Define scope, goals, and stakeholders.
+
+Architecture Vision: High-level vision aligning IT and business.
+
+Business Architecture: Define business processes (e.g., account management, patient care).
+
+Information System Architecture: Manage data and applications securely.
+
+Technology Architecture: Choose hardware, cloud, and network infrastructure.
+
+Implementation & Migration Planning: Create timelines, budgets, and plans.
+
+Governance: Define compliance and monitoring policies.
+
+Change Management: Handle continuous improvements.
+
+Use Cases:
+
+Banking: Risk management, digital banking integration, regulatory compliance.
+
+Healthcare: Secure EHR, interoperability, HIPAA compliance.
+
+Conclusion:
+Using TOGAF ensures that EA is structured, scalable, and compliant, enhancing efficiency in critical sectors like banking and healthcare.
+
+🛡️ EAC Experiment 4
+Title: Design enterprise security architecture using SABSA for Finance / Defense / Agriculture domain.
+Aim:
+
+To build an enterprise security architecture using SABSA framework tailored for different sectors like finance, defense, and agriculture.
+
+Theory Summary:
+
+SABSA (Sherwood Applied Business Security Architecture) is a risk-driven security framework with six layers of abstraction.
+
+SABSA Layers and Focus:
+
+Business Attributes Layer: Define business goals and security needs.
+
+Finance → Protect customer data.
+
+Defense → Secure classified info.
+
+Agriculture → Ensure data integrity.
+
+Information Attributes: Define data classification and encryption.
+
+Application Attributes: Secure applications (banking apps, defense software, etc.).
+
+Technology Attributes: Implement firewalls, access control, network security.
+
+Physical Attributes: Secure facilities and data centers.
+
+People & Identity: Implement authentication, identity management, and access control.
+
+Conclusion:
+SABSA provides a structured, risk-based approach to build secure, compliant, and resilient architectures across industries.
+
+🧱 EAC Experiment 5
+Title: Design and implement an enterprise architecture framework for a hypothetical organization (business & technology architecture).
+Aim:
+
+To design a complete EA framework aligning business and IT for an imaginary organization.
+
+Theory Summary:
+
+Enterprise Architecture bridges the gap between business goals and technical systems.
+
+Key Components:
+
+Business Architecture:
+
+Defines business goals, strategy, and capabilities.
+
+Includes processes like sales, operations, and customer service.
+
+Helps ensure that IT supports business functions.
+
+Technology Architecture:
+
+Includes infrastructure (servers, networks), applications (ERP, CRM), and data management.
+
+Focuses on security, integration, and scalability.
+
+Requirements:
+
+Alignment between business and IT.
+
+Simplicity and scalability.
+
+Secure and integrated systems.
+
+Support for innovation.
+
+Conclusion:
+A well-designed EA framework improves efficiency, reduces costs, and ensures business–IT alignment for sustainable growth and technological advancement.
